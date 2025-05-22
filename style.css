@@ -1,0 +1,23 @@
+h3 {
+  text-align: center;
+  border: 2px solid;
+  background-color: coral;
+}
+
+body {
+  text-align: center;
+}
+
+section {
+  background-color: aqua;
+  height: 200px;
+  border: 2px solid;
+}
+table,
+th,
+td {
+  border: 2px solid;
+  border-collapse: collapse;
+  padding: 10px;
+  margin: auto;
+}
